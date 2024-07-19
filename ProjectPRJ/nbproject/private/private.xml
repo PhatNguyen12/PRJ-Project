@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ301 - 4USER">
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/dal/DocumentDAO.java</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/controller/DocumentServlet.java</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/web/dashboard.jsp</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/dal/DocumentTypesDAO.java</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/controller/AuthenServlet.java</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/controller/DownloadServlet.java</file>
+            <file>file:/C:/Users/ADMIN/OneDrive%20-%20vinhdeptrai/Code%20Thue/PRJ301/Assignment/PRJ301%20-%20Assignment%20-%20Nguyen%20Van%20Phat/WebApplication3/src/java/controller/EditDocumentServlet.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/filter/NewFilter.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/model/Users.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/model/DocumentTypes.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/EditDocumentServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/dal/NoteDAO.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/web/note.jsp</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/model/Note.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/dal/DocumentTypesDAO.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/web/header.jsp</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/CreateDocumentServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/dal/DocumentDAO.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/DocumentServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/web/login.jsp</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/web/register.jsp</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/AuthenServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/DownloadServlet.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/model/Documents.java</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/web/dashboard.jsp</file>
+            <file>file:/C:/Users/My%20Computer/Downloads/ProjectPRJ/src/java/controller/NoteServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
